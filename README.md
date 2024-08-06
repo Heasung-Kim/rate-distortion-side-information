@@ -90,7 +90,7 @@ If you find this repository helpful, please cite our work:
 
 ### References
 
-A part of this project is inspired from the following papers and codebases.
+A part of this project is inspired by the following papers and codebases:
 
 1. Yibo Yang and Stephan Mandt, "Towards Empirical Sandwich Bounds on the Rate-Distortion Function", ICLR 2022, https://github.com/mandt-lab/RD-sandwich
 
